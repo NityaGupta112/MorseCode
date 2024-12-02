@@ -1,14 +1,14 @@
-#Morse Code Learning and Testing Application
+# Morse Code Learning and Testing Application
 
-##Overview
+## Overview
 This application is designed to help users learn and practice Morse code in an engaging and interactive way. Whether you are a beginner looking to familiarize yourself with the basics or an advanced user wanting to test your proficiency, this application has something for everyone.
 
-##Features
-###Learning Mode
+## Features
+### Learning Mode
 - Morse Code Reference Table:
 Access a comprehensive table mapping English alphabets to their corresponding Morse code. This serves as a quick guide for learners to understand and memorize Morse code.
 
-###Testing Mode
+### Testing Mode
 Choose between two difficulty levels:
 
 1. Beginner:
@@ -26,7 +26,7 @@ Choose between two difficulty levels:
   - Option to view the reference table during the quiz.
   - Exit the quiz at any point and view your final score.
 
-##How It Works
+## How It Works
 1. Home Page:
   - Choose between Learn (access the Morse code table) or Test Your Skills (start the quiz).
 
@@ -42,27 +42,30 @@ Choose between two difficulty levels:
 4. Exit Option:
   - Exit the quiz at any time and receive a summary of your performance.
 
-Technologies Used
-Programming Language: Java
-Graphical User Interface: Swing
-Data Structures:
-HashMap for Morse code dictionary.
-ArrayList for advanced quiz questions.
-Installation
-Clone the repository or download the source code.
-Ensure you have Java Development Kit (JDK) installed.
-Compile and run the application using your preferred Java IDE or the command line:
-bash
-Copy code
-javac MorseCodeApp.java
-java MorseCodeApp
-Usage
-Run the application.
-Use the main menu to choose between Learn and Test Your Skills.
-In the quiz, select answers, view your score, or exit anytime.
-Explore Morse code and improve your skills!
-Future Enhancements
-Custom Quiz Mode: Allow users to create their own Morse code questions.
-Leaderboard: Track scores of multiple users.
-Timed Quizzes: Add a timer to make the quiz more challenging.
-Sound Playback: Include Morse code sound for auditory learning.
+## Technologies Used
+- Programming Language: Java
+- Graphical User Interface: Swing
+- Data Structures:
+  - HashMap for Morse code dictionary.
+  - ArrayList for advanced quiz questions.
+
+## Installation
+1. Clone the repository or download the source code.
+2. Ensure you have Java Development Kit (JDK) installed.
+3. Compile and run the application using your preferred Java IDE or the command line:
+
+```javac MorseCodeApp.java```
+```java MorseCodeApp```
+
+## Usage
+1. Run the application.
+2. Use the main menu to choose between Learn and Test Your Skills.
+3. In the quiz, select answers, view your score, or exit anytime.
+4. Explore Morse code and improve your skills!
+
+
+## Future Enhancements
+- Custom Quiz Mode: Allow users to create their own Morse code questions.
+- Leaderboard: Track scores of multiple users.
+- Timed Quizzes: Add a timer to make the quiz more challenging.
+- Sound Playback: Include Morse code sound for auditory learning.
