@@ -12,35 +12,35 @@ Access a comprehensive table mapping English alphabets to their corresponding Mo
 Choose between two difficulty levels:
 
 1. Beginner:
-  - Translate single letters from Morse code to English.
-  - A great starting point for users new to Morse code.
+    - Translate single letters from Morse code to English.
+    - A great starting point for users new to Morse code.
 
 2. Advanced:
-  - Translate phrases or sentences from Morse code to English.
-  - Perfect for users who want to challenge themselves and enhance their skills.
+    - Translate phrases or sentences from Morse code to English.
+    - Perfect for users who want to challenge themselves and enhance their skills.
 
 3. Multiple Choice Quiz:
-  - Each question presents the Morse code and four possible answers.
-  - Select the correct answer to score points.
-  - A running tally of your score is maintained throughout the quiz.
-  - Option to view the reference table during the quiz.
-  - Exit the quiz at any point and view your final score.
+    - Each question presents the Morse code and four possible answers.
+    - Select the correct answer to score points.
+    - A running tally of your score is maintained throughout the quiz.
+    - Option to view the reference table during the quiz.
+    - Exit the quiz at any point and view your final score.
 
 ## How It Works
 1. Home Page:
-  - Choose between Learn (access the Morse code table) or Test Your Skills (start the quiz).
+    - Choose between Learn (access the Morse code table) or Test Your Skills (start the quiz).
 
 2. Learning Mode:
-   - View the Morse code reference table to learn the translations for each English alphabet.
+    - View the Morse code reference table to learn the translations for each English alphabet.
 
 3. Testing Mode:
-  - Choose a difficulty level: Beginner or Advanced.
-  - Translate Morse code presented in the quiz into English using multiple-choice options.
-  - Check your score after every question.
-  - Access the Morse code table for help, if needed.
+    - Choose a difficulty level: Beginner or Advanced.
+    - Translate Morse code presented in the quiz into English using multiple-choice options.
+    - Check your score after every question.
+    - Access the Morse code table for help, if needed.
 
 4. Exit Option:
-  - Exit the quiz at any time and receive a summary of your performance.
+    - Exit the quiz at any time and receive a summary of your performance.
 
 ## Technologies Used
 - Programming Language: Java
