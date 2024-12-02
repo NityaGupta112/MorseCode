@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MorseCodeApp
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ initializeMorseCodeDict()
+comment3.params=
+comment3.target=void\ initializeAdvancedQuestions()
+comment4.params=
+comment4.target=void\ showMorseCodeTable()
+comment5.params=
+comment5.target=void\ chooseDifficulty()
+comment6.params=difficulty
+comment6.target=void\ startQuiz(java.lang.String)
+comment7.params=difficulty\ morseCodeLabel\ optionButtons
+comment7.target=void\ generateQuestion(java.lang.String,\ javax.swing.JLabel,\ javax.swing.JButton[])
+comment8.params=difficulty
+comment8.target=java.lang.String\ generateRandomOption(java.lang.String)
+comment9.params=phrase
+comment9.target=java.lang.String\ phraseToMorse(java.lang.String)
+numComments=10
